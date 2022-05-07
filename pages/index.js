@@ -10,7 +10,7 @@ export default function Home() {
 
       <main className="main">
         <div className="profile-container">
-          <img className="image" src="/img.png" alt="alt-img"/> 
+          <img className="image" src="/twinpeaks.jpg" alt="alt-img"/> 
           <h3 className="description">@adman94</h3>
         </div>
       </main>

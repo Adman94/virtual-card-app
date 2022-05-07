@@ -46,6 +46,7 @@ a {
 .image {
   width: 120px;
   height: 120px;
+  object-fit: cover;
   background-color: white;
   border-radius: 50%;
 }
